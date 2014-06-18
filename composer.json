@@ -1,0 +1,16 @@
+{
+    "name": "kampernet/aspects",
+    "description": "Implements Aspect Oriented Programming in a very basic way",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Cookie Delicious",
+            "email": "kampernet@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Kampernet\\Aspect": "src/"
+        }
+    }
+}
