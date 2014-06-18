@@ -12,5 +12,5 @@
 
  eg: @has Example looks for and loads a class by the name of ExampleAspect.
 
- The Aspect class methods are either named <before|after><Classname><MethodName> or have the @match annotation in the same
+ The Aspect class methods are either named `<before|after><Classname><MethodName>` or have the @match annotation in the same
  format to get applied correctly.  Using the @match annotation you can also match to regular expressions.
